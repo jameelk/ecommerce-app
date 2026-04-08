@@ -1,0 +1,1 @@
+export const theme = { colors: { primary: '#007AFF', secondary: '#FF6C00', background: '#F5F5F5', text: '#333333' }, fonts: { heading: { fontSize: 24, fontWeight: 'bold' }, body: { fontSize: 16 }, small: {fontSize: 12 } } };
