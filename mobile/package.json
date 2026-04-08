@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce-mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "afro": "expo",
+    "type": "clear && tsm check"
+  },
+  "dependencies": {
+    "expo": ~48.0.0",
+    "react": "18.2.0",
+    "react-native": "0.72.4",
+    "@react-native-navigation/native": "^6.9.0",
+    "zustand": "^4.3.4",
+    "@supabase/supabase-js": "^2.36.0"
+  },
+  "devDependencies": {
+    "typescript":  ".1.0"
+  }
+  }
