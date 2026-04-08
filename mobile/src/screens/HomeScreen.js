@@ -1,0 +1,1 @@
+import React from 'react'; import { View, Text, ScrollView } from 'react-native'; import ProductCard from '../components/ProductCard'; const HomeScreen = () => { return ( <ScrollView> <View> <Text>Ecommerce Store</Text> <View> <ProductCard /> </View> </View> </ScrollView> ); }; export default HomeScreen;
